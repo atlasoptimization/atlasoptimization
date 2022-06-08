@@ -1,6 +1,6 @@
 Hello everybody,
 
-the repositories associated to this profile are dedicated to making mathematical optimization more accessible. Those repositories investigate and showcase ways to use classical optimization methods like linear, semidefinite, stochastic, mixed integer, and dynamic pogramming for real world applications. The goal is to offer 
+the repositories associated to this profile are dedicated to making mathematical optimization more accessible. They investigate and showcase ways to use classical optimization methods like linear, semidefinite, stochastic, mixed integer, and dynamic pogramming for real world applications. The goal is to offer 
   - an easy drag and drop interface for optimization problems
   - solutions to typical problems from optimal design, optimal estimation, optimal control
   - easy integration of optimization into production and planning processes 
